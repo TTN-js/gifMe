@@ -127,3 +127,49 @@ body {
 /**
  * App code
  */
+
+body{
+    background-color:#6495ED;
+
+        .pageContainer{
+        text-align:center;
+
+            .pageTitle{
+                margin-top:30px; color:#555555;
+            }
+
+            .searchBar{
+                background-color:#DDDDDD;
+                font-size:16px;
+                color:#555555;
+            }
+
+            input:focus{
+                outline: none;
+            }
+
+            .gifScroll{
+                margin-top:30px;
+            }
+
+            img{
+                width: 80%;
+                margin-bottom: 10px;
+                border: 5px solid #DDDDDD;
+            }
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
